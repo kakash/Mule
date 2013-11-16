@@ -1,6 +1,6 @@
 Mule
 ====
 
-Peer to peer package delivery
+Peer to peer package delivery.
 
-The masses are asses
+The masses are asses.
