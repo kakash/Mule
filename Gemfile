@@ -12,4 +12,5 @@ end
 
 gem 'jquery-rails'
 gem 'devise'
+gem "twitter-bootstrap-rails"
 
